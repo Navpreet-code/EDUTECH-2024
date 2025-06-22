@@ -1,4 +1,4 @@
-# 📚 EduTech – Educational Web Application
+# 📚 EduTech (2024) – Educational Web Application
 
 **EduTech** is a responsive educational web application developed during my **6-month industrial training**, using **Django (Python)** for the backend and **HTML, CSS, and Bootstrap** for the frontend.
 
