@@ -32,8 +32,7 @@ The platform provides users access to educational data and analytics related to 
 - **Database:** SQLite  
 - **Analysis Tools:** pandas, matplotlib (basic usage)  
 - **Architecture:** MVT (Model-View-Template) – Django Framework  
-- **Deployment:** *(Optional – mention if hosted)*
-
+- **Deployment:** PythonAnywhere 
 ---
 
 ## 📁 Project Info
